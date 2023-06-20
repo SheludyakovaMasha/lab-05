@@ -19,4 +19,4 @@ class Transaction {
   virtual void SaveToDataBase(Account& from, Account& to, int sum);
 
   int fee_;
-};
+}; 

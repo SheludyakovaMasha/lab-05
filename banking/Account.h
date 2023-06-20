@@ -21,4 +21,4 @@ class Account {
   int id_;
   int balance_;
   bool is_locked_;
-};
+}; 
